@@ -8,7 +8,7 @@ This is a repository containing unofficial solved exercises from the [Dynamical 
 
 ## Requirements
 
-Due to the use of [Binder](https://mybinder.readthedocs.io/en/latest/about/about.html), users should be able to run the Jupyter Notebooks on their desktop. This has not been tested.
+Due to the use of [Binder](https://mybinder.readthedocs.io/en/latest/about/about.html), users should be able to run the Jupyter Notebooks in their web browsers. This has not been tested.
 
 ## Contributing
 
